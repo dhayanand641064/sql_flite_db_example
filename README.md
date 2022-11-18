@@ -12,7 +12,7 @@ I have made the following changes to solve version errors.
 
 
 
-****---------------------------------------   android/app/build.gradle --------------------------------------------------------
+****--- ------------------------------------   android/app/build.gradle --------------------------------------------------------
 android/app/build.gradle       —>  ( 2 places to change )
 
 android {
